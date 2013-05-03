@@ -9,6 +9,6 @@ http://www.fastcolabs.com/3008209/open-company/big-data-jobs-around-nation-and-w
 
 
 ## todo ##
-[ ] - flesh out this document
-[ ] - remove selenium dependencies
-[ ] - add more sites
+- [ ] flesh out this document
+- [ ] remove selenium dependencies
+- [ ] add more sites
