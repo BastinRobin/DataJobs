@@ -17,7 +17,7 @@ class GetPage(object):
         return page
 
 
-class Page(object):
+class ReadPage(object):
 
     def __init__(self, url):
         self.page = GetPage.open(url)
